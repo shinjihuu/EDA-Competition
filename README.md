@@ -1,4 +1,5 @@
-# EDA-Competition
+# 2023 D&A Basic Session EDA Team Competition
+## 주류 판매 분석을 통한 전략 및 신제품 아이디어
 
 ---
 
