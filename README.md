@@ -1,7 +1,4 @@
 # EDA-Competition
-D&amp;A Basic Session EDA Competiton
-
----
 
 ---
 
@@ -45,6 +42,7 @@ D&amp;A Basic Session EDA Competiton
     - **지역**
         - Z17과 Z10 지역에 주류 구매 고객 수, 주류 판매 점포 수, 주류 판매액, 주류 판매량이 많다.
         - Z17과 Z10 지역에 맥주 판매량이 높다.
+          
         
 - 인사이트 바탕으로 주류 신제품 아이디어 구상
     - **시기: 여름**
